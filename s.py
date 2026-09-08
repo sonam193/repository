@@ -1,2 +1,3 @@
 a=5
-print(a)
+f=9
+print(a+f)
